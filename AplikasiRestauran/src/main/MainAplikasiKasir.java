@@ -47,7 +47,7 @@ public class MainAplikasiKasir {
         }
     }
     
-        
+    
     public void generateDaftarMenu(){
         daftarMenu = new DaftarMenu();
         daftarMenu.tambahMenu(new Ramen("Ramen Seafood", 25000));
